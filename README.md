@@ -7,60 +7,61 @@ This repository contains a Hotel Management System project implemented in Java u
 
 ## Features
 
-Room Booking & Availability – Check available rooms and make reservations.
+ * Room Booking & Availability – Check available rooms and make reservations.
 
- Customer Management – Store and manage customer details.
+ * Customer Management – Store and manage customer details.
  
- Billing & Payments – Generate invoices and process payments.
+ * Billing & Payments – Generate invoices and process payments.
  
- Staff & Admin Management – Manage hotel staff and roles.
+ * Staff & Admin Management – Manage hotel staff and roles.
 
 
 ### Technologies Used
 
-Language: Java
+* Language: Java
 
-Database: MySQL 
+* Database: MySQL 
  
-Frameworks: JDBC for database connectivity
+* Frameworks: JDBC for database connectivity
  
-IDE: IntelliJ IDEA 
+* IDE: IntelliJ IDEA 
 
 
 ## Prerequisites
 Ensure you have the following installed on your system:
 
-Java Development Kit (JDK 8 or higher)
+* Java Development Kit (JDK 8 or higher)
 
-MySQL Server
+* MySQL Server
 
-An IDE (e.g., Eclipse, IntelliJ IDEA) for Java development
+* An IDE (e.g., Eclipse, IntelliJ IDEA) for Java development
 
 
 ### Steps
-Clone the Repository
+* Clone the Repository
 
+''''
 git clone https://github.com/aashikakri105/Hotel-Management-System.git
-
 cd Hotel-Management-System/src
+''''
 
 Configure Database
 
-Create a MySQL database named bank_management.
+* Create a MySQL database named bank_management.
 
-Import the SQL scripts (if provided) to set up tables and schema.
+* Import the SQL scripts (if provided) to set up tables and schema.
 
 Update Database Credentials
 
-Navigate to the Java files managing database connections.
+* Navigate to the Java files managing database connections.
 
-Update the username, password, and database URL as per your MySQL configuration.
+* Update the username, password, and database URL as per your MySQL configuration.
 
 Compile and Run
 
-Open the project in your preferred IDE.
+* Open the project in your preferred IDE.
 
-Build and run the application.
+* Build and run the application.
 
 # Contact
 For any queries or feedback, please reach out:
