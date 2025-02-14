@@ -1,4 +1,5 @@
 # HotelManagementSystem
+
 The Hotel Management System is a Java-based application designed to efficiently manage hotel operations, including room reservations, customer management, billing, and staff administration.
 
 This repository contains a Hotel Management System project implemented in Java using AWT and MySQL. The application provides a user-friendly interface for managing various banking operations efficiently.
@@ -7,14 +8,18 @@ This repository contains a Hotel Management System project implemented in Java u
 ## Features
 
 Room Booking & Availability – Check available rooms and make reservations.
+
  Customer Management – Store and manage customer details.
+ 
  Billing & Payments – Generate invoices and process payments.
+ 
  Staff & Admin Management – Manage hotel staff and roles.
 
 
 ### Technologies Used
 
 Language: Java
+
  Database: MySQL 
  Frameworks: JDBC for database connectivity
  IDE: IntelliJ IDEA 
