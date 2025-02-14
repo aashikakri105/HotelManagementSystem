@@ -20,9 +20,11 @@ Room Booking & Availability – Check available rooms and make reservations.
 
 Language: Java
 
- Database: MySQL 
- Frameworks: JDBC for database connectivity
- IDE: IntelliJ IDEA 
+Database: MySQL 
+ 
+Frameworks: JDBC for database connectivity
+ 
+IDE: IntelliJ IDEA 
 
 
 ## Prerequisites
