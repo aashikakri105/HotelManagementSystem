@@ -40,7 +40,8 @@ Ensure you have the following installed on your system:
 ### Steps
 * Clone the Repository
 
-    ```git clonehttps://github.com/aashikakri105/HotelManagementSystem.git
+    ```
+    git clonehttps://github.com/aashikakri105/HotelManagementSystem.git
     cd Hotel-Management-System/src
     ```
 
