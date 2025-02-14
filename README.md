@@ -40,10 +40,12 @@ Ensure you have the following installed on your system:
 ### Steps
 * Clone the Repository
 
-```
+    ```
     git clone https://github.com/amit-soham-16/Bank-Management-System.git
     cd Bank-Management-System/src
     ```
+
+
 
 Configure Database
 
